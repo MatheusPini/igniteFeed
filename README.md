@@ -2,13 +2,12 @@
 
 ## Descrição do Projeto
 
-Este projeto é um feed desenvolvido com ReactJS, TypeScript, CSS Modules e Phosphor Icons, seguindo o layout do Figma: [Feed Layout Figma](https://www.figma.com/community/tag/feed/files). A aplicação apresenta uma barra lateral à esquerda com o nome do usuário logado e, à direita, a área principal com um conjunto de posts. Os usuários podem interagir com os posts ao clicar em botões para aplaudir e comentar.
+Este projeto é um feed desenvolvido com ReactJS, CSS Modules e Phosphor Icons, seguindo o layout do Figma: [Feed Layout Figma](https://www.figma.com/community/tag/feed/files). A aplicação apresenta uma barra lateral à esquerda com o nome do usuário logado e, à direita, a área principal com um conjunto de posts. Os usuários podem interagir com os posts ao clicar em botões para aplaudir e comentar.
 
 ## Tecnologias Utilizadas
 
 ### Front-end:
 - ReactJS
-- TypeScript
 - CSS Modules
 - Phosphor Icons
 
@@ -41,7 +40,6 @@ Este projeto é um feed desenvolvido com ReactJS, TypeScript, CSS Modules e Phos
 ## Recursos Adicionais
 
 - [Documentação do ReactJS](https://reactjs.org/docs/getting-started.html)
-- [Documentação do TypeScript](https://www.typescriptlang.org/docs/)
 - [Documentação do CSS Modules](https://github.com/css-modules/css-modules)
 - [Documentação do Phosphor Icons](https://phosphoricons.com/)
 - [Documentação do Vite](https://vitejs.dev/)
