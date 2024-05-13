@@ -1,8 +1,8 @@
-# README do Projeto Vite ReactJS com TypeScript, CSS Modules, Phosphor Icons e Layout Figma
+# README do Projeto Vite ReactJS, CSS Modules, Phosphor Icons e Layout Figma
 
 ## Descrição do Projeto
 
-Este projeto é um feed desenvolvido com ReactJS, CSS Modules e Phosphor Icons, seguindo o layout do Figma: [Feed Layout Figma](https://www.figma.com/community/tag/feed/files). A aplicação apresenta uma barra lateral à esquerda com o nome do usuário logado e, à direita, a área principal com um conjunto de posts. Os usuários podem interagir com os posts ao clicar em botões para aplaudir e comentar.
+Este projeto é um feed desenvolvido com ReactJS, CSS Modules e Phosphor Icons, seguindo o layout da RocketSeat no Figma deles: [Feed Layout Figma](https://www.figma.com/community/tag/feed/files). A aplicação apresenta uma barra lateral à esquerda com o nome do usuário logado e, à direita, a área principal com um conjunto de posts. Os usuários podem interagir com os posts ao clicar em botões para aplaudir e comentar.
 
 ## Tecnologias Utilizadas
 
