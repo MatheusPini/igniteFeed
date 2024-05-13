@@ -1,8 +1,27 @@
-# React + Vite
+# Readme do Projeto Vite ReactJS com TypeScript, CSS Modules, Phosphor Icons e Layout Figma
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição do Projeto
 
-Currently, two official plugins are available:
+Este projeto é um feed desenvolvido com ReactJS, TypeScript, CSS Modules e Phosphor Icons, seguindo o layout do Figma: [Feed Layout Figma](https://www.figma.com/community/tag/feed/files). A aplicação apresenta uma barra lateral à esquerda com o nome do usuário logado e, à direita, a área principal com um conjunto de posts. Os usuários podem interagir com os posts ao clicar em botões para aplaudir e comentar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+### Front-end:
+- ReactJS
+- TypeScript
+- CSS Modules
+- Phosphor Icons
+
+### Ferramentas:
+- Vite
+- Figma
+
+### Ambiente de Desenvolvimento:
+- Node.js 20.11.1
+
+## Instruções para Instalação e Execução
+
+1. Clonar o repositório:
+
+   ```bash
+   git clone https://github.com/topics/projetos
